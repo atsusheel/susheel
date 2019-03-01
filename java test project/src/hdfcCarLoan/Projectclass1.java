@@ -18,6 +18,7 @@ public class Projectclass1
 		{
 			c = a - b;
 			System.out.println(c);
+			
 		}
 	public static void main(String[] args) {
 		Projectclass1 w1 = new Projectclass1(20,10);
