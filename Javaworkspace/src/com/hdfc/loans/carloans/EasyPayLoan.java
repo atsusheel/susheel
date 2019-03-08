@@ -5,8 +5,8 @@ public class EasyPayLoan {
 	int a = 10, b = 20, c;
 	
 	public void add() {
-		c = a+b;
-		System.out.println("Addition of a & b is: "+c);
+		c = a + b;
+		System.out.println("Addition of a & b is: " + c);
 		
 	}
 	
@@ -14,7 +14,7 @@ public class EasyPayLoan {
 		
 		c = a - b;
 		
-		System.out.println("Subtract af a & b is: "+c);
+		System.out.println("Subtract af a & b is: " + c);
 		
 	}
 	
