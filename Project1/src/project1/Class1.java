@@ -11,6 +11,11 @@ public class Class1
 		Class1 c1 = new Class1();
 		c1.s1();
 
+		System.out.println("print");
+		
+		
+		
+		
 	}
 
 }
